@@ -1,0 +1,703 @@
+# Translation of Plugins - Page Builder: PageLayer &#8211; Drag and Drop website builder - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Page Builder: PageLayer &#8211; Drag and Drop website builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-10 07:04:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Page Builder: PageLayer &#8211; Drag and Drop website builder - Stable (latest release)\n"
+
+#: main/template.php:87
+msgid "Menu"
+msgstr "Menú"
+
+#: main/post_metas.php:547
+msgid "Save Codes"
+msgstr "Guardar los códigos"
+
+#: main/post_metas.php:534
+msgid "You can add custom code like HTML, JavaScript, CSS etc. for the current post."
+msgstr "Puedes añadir código personalizado como HTML, JavaScript, CSS, etc. para la entrada actual."
+
+#: main/post_metas.php:530
+msgid "Header and Footer Code"
+msgstr "Código en la cabecera y pie de página"
+
+#: main/post_metas.php:495
+msgid "Get Shortlink"
+msgstr "Obtener un enlace corto"
+
+#: main/post_metas.php:473
+msgid "Add title"
+msgstr "Añadir un título"
+
+#: main/post_metas.php:470
+msgid "Post Title"
+msgstr "Título de la entrada"
+
+#: main/post_metas.php:436
+msgid "Advanced Props"
+msgstr "Propiedades avanzadas"
+
+#: main/post_metas.php:430 main/post_metas.php:446
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: main/post_metas.php:422
+msgid "Post Props"
+msgstr "Propiedades de las entradas"
+
+#: main/post_metas.php:415
+msgid "Body Style"
+msgstr "Estilo del cuerpo"
+
+#: main/post_metas.php:412
+msgid "Header and Footer"
+msgstr "Cabecera y pie de página"
+
+#: main/post_metas.php:409
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: main/post_metas.php:406
+msgid "Properties"
+msgstr "Propiedades"
+
+#: main/post_metas.php:348
+msgid "Published"
+msgstr "Publicada"
+
+#: main/post_metas.php:107
+msgctxt "post format"
+msgid "Format"
+msgstr "Formato"
+
+#: main/post_metas.php:44
+msgid "Sorry, you are not allowed to edit this item."
+msgstr "Lo siento, no tienes permisos para para editar este elemento."
+
+#: init.php:214
+msgid "Meta Settings"
+msgstr "Ajustes meta"
+
+#: main/settings.php:583
+msgid "You can use comma seperated values for multiple emails"
+msgstr "Puedes usar valores separados por comas para varios correos electrónicos"
+
+#: main/functions.php:1122
+msgid "Thanks for choosing "
+msgstr "Gracias por elegir "
+
+#: init.php:232
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: main/template.php:667 main/template.php:681
+msgid "Edit Template Options"
+msgstr "Opciones de edición de la plantilla"
+
+#: main/template.php:593
+msgid "All"
+msgstr "Todos"
+
+#: main/template.php:507 main/template.php:552
+msgid "None"
+msgstr "Ninguna"
+
+#: main/template.php:478
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: main/template.php:477
+msgid "Display On"
+msgstr "Mostrar en"
+
+#: main/template.php:476
+msgid "Type"
+msgstr "Tipo"
+
+#: main/template.php:462
+msgid "Edit"
+msgstr "Editar"
+
+#: main/template.php:388
+msgid "No Pagelayer templates found"
+msgstr "No se han encontrado plantillas de PageLayer"
+
+#: main/template.php:387
+msgid "Search Templates"
+msgstr "Buscar plantillas"
+
+#: main/template.php:386
+msgid "All Templates"
+msgstr "Todas las plantillas"
+
+#: main/template.php:385
+msgid "View Template"
+msgstr "Ver la plantilla"
+
+#: main/template.php:384
+msgid "Edit Template"
+msgstr "Editar la plantilla"
+
+#: main/template.php:383
+msgid "New Template"
+msgstr "Nueva plantilla"
+
+#: main/template.php:382
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: main/template.php:381
+msgctxt "add templates"
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: main/template.php:380
+msgctxt "admin bar"
+msgid "Pagelayer Templates"
+msgstr "Plantillas de PageLayer"
+
+#: main/template.php:379
+msgctxt "admin menu"
+msgid "Pagelayer Templates"
+msgstr "Plantillas de PageLayer"
+
+#: main/template.php:378
+msgctxt "singular"
+msgid "Pagelayer Template"
+msgstr "Plantilla de PageLayer"
+
+#: main/template.php:377
+msgctxt "plural"
+msgid "Pagelayer Templates"
+msgstr "Plantillas de PageLayer"
+
+#: main/template.php:280
+msgid "%s"
+msgstr "%s"
+
+#: main/template.php:230
+msgid "%s By Author"
+msgstr "%s por autor"
+
+#: main/template.php:210
+msgid "In Child %s"
+msgstr "En %s hijas"
+
+#: main/template.php:198
+msgid "In %s"
+msgstr "En %s"
+
+#: main/template.php:133
+msgid "404"
+msgstr "404"
+
+#: main/template.php:126
+msgid "Front Page"
+msgstr "Página de inicio"
+
+#: main/template.php:119
+msgid "By Author"
+msgstr "Por autor"
+
+#: main/template.php:117
+msgid "All Singular"
+msgstr "Todas las individuales"
+
+#: main/template.php:108
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: main/template.php:101
+msgid "Date Archives"
+msgstr "Archivos por fecha"
+
+#: main/template.php:94
+msgid "Author Archives"
+msgstr "Archivos por autor"
+
+#: main/template.php:92
+msgid "All Archives / Posts Archive"
+msgstr "Todos los archivos/archivos de entradas"
+
+#: main/template.php:81
+msgid "Singular"
+msgstr "Individual"
+
+#: main/template.php:75
+msgid "Archives"
+msgstr "Archivos"
+
+#: main/template.php:73
+msgid "Full Site"
+msgstr "Sitio completo"
+
+#: main/template.php:70
+msgid "Exclude"
+msgstr "Excluir"
+
+#: main/template.php:69
+msgid "Include"
+msgstr "Incluir"
+
+#: main/template.php:63
+msgid "Global Widget"
+msgstr "Widget global"
+
+#: main/template.php:58
+msgid "Global Section"
+msgstr "Sección global"
+
+#: main/template.php:50
+msgid "Section"
+msgstr "Sección"
+
+#: main/template.php:48
+msgid "Popup"
+msgstr "Ventana emergente"
+
+#: main/template.php:45
+msgid "Archive"
+msgstr "Archivo"
+
+#: main/template.php:41
+msgid "Single"
+msgstr "Individual"
+
+#: main/template.php:39
+msgid "Footer"
+msgstr "Pie de página"
+
+#: main/template.php:38
+msgid "Header"
+msgstr "Cabecera"
+
+#: main/template.php:37
+msgid "Select"
+msgstr "Selección"
+
+#: main/functions.php:1126
+msgid "Thanks for choosing Pagelayer. We recommend that you see the short and sweet <a href=\""
+msgstr "Gracias por elegir PageLayer. Te recomendamos que veas el breve y dulce <a href=\""
+
+#: main/website.php:280
+msgid "Width"
+msgstr "Ancho"
+
+#: main/website.php:274
+msgid "For Archives"
+msgstr "Para archivos"
+
+#: main/website.php:268
+msgid "For Posts"
+msgstr "Para entradas"
+
+#: main/website.php:262
+msgid "For Pages"
+msgstr "Para páginas"
+
+#: main/website.php:258
+msgid "Default layout for the Sidebar throughout the site"
+msgstr "Diseño por defecto para la barra lateral en todo el sitio"
+
+#: main/website.php:255
+msgid "Default"
+msgstr "Por defecto"
+
+#: main/website.php:251
+msgid "By default, the themes sidebar will be shown. But you can customize the settings here as per your preference. Note : This will work only if your theme uses the get_sidebar() function. Also the main content element and sidebar element should be siblings. If they are not siblings, then only the <b>No Sidebar</b> option will be usable."
+msgstr "Por defecto, se mostrará la barra lateral de los temas. Pero puedes personalizar los ajustes aquí según tus preferencias. Nota: esto solo funcionará si tu tema usa la función get_sidebar(). Además, el elemento del contenido principal y el elemento de la barra lateral deben ser hermanos. Si no son hermanos, solo se podrá utilizar la opción <b>Sin barra lateral</b>."
+
+#: main/website.php:250
+msgid "Sidebar Preferences"
+msgstr "Preferencias de la barra lateral"
+
+#: main/post_metas.php:537 main/website.php:299
+msgid "Header Code"
+msgstr "Código de la cabecera"
+
+#: main/functions.php:1279 main/functions.php:1312 main/functions.php:1317
+msgid "This feature is a part of <a href=\""
+msgstr "Esta características es una parte de <a href=\""
+
+#: main/settings.php:713
+msgid "You can contact the PageLayer Group via email. Our email address is <a href=\"mailto:support@pagelayer.com\">support@pagelayer.com</a>. We will get back to you as soon as possible!"
+msgstr "Puedes ponerse en contacto con PageLayer Group por correo electrónico. Nuestra dirección de correo electrónico es <a href=\"mailto:support@pagelayer.com\">support@pagelayer.com</a>. ¡Nos comunicaremos contigo lo antes posible!"
+
+#: main/settings.php:711
+msgid "2: Support"
+msgstr "2: Soporte"
+
+#: main/settings.php:708
+msgid "Pagelayer is best live editor and easy to use and we will keep improving it !"
+msgstr "PageLayer es el mejor editor en vivo y el más fácil de usar, ¡y seguiremos mejorándolo!"
+
+#: main/settings.php:706
+msgid "1: Why choose us"
+msgstr "1: Por qué elegirnos"
+
+#: main/settings.php:701
+msgid "You can contact the Pagelayer Team via email. Our email address is <a href=\"mailto:support@pagelayer.com\">support@pagelayer.com</a>. We will get back to you as soon as possible!"
+msgstr "Puedes ponerte en contacto con el equipo de PageLayer por correo electrónico. Nuestra dirección de correo electrónico es <a href=\"mailto:support@pagelayer.com\">support@pagelayer.com</a>. ¡Nos comunicaremos contigo lo antes posible!"
+
+#: main/settings.php:683
+msgid "reCaptcha Language"
+msgstr "Idioma de reCAPTCHA"
+
+#: main/settings.php:673
+msgid "reCaptcha Secret Key"
+msgstr "Clave secreta de reCAPTCHA"
+
+#: main/settings.php:663
+msgid "reCaptcha Site Key"
+msgstr "Clave del sitio de reCAPTCHA"
+
+#: main/settings.php:649
+msgid "reCaptcha Failed Message"
+msgstr "Mensaje de fallo de reCAPTCHA"
+
+#: main/settings.php:639
+msgid "Failed Message"
+msgstr "Mensaje de fallo"
+
+#: main/settings.php:629
+msgid "Success Message"
+msgstr "Mensaje de éxito"
+
+#: main/settings.php:626
+msgid "You can edit messages used for information of your form here."
+msgstr "Aquí puedes editar los mensajes usados para la información de tu formulario."
+
+#: main/settings.php:626
+msgid "Messages"
+msgstr "Mensajes"
+
+#: main/settings.php:615
+msgid "Additional Headers"
+msgstr "Cabeceras adicionales"
+
+#: main/settings.php:605
+msgid "Subject"
+msgstr "Asunto"
+
+#: main/settings.php:594
+msgid "From Email"
+msgstr "Correo electrónico del remitente"
+
+#: main/settings.php:583
+msgid "To Email"
+msgstr "Correo electrónico del destinatario"
+
+#: main/settings.php:578
+msgid "You can use a field name with a prefix $ to print your field value e.g. if the field name is <b>fieldname</b> then use the variable <b>$fieldname</b>"
+msgstr "Puedes usar un nombre de campo con un prefijo $ para mostrar el valor de tu campo, por ejemplo, si el nombre del campo es <b>nombredelcampo</b>, usa la variable <b>$nombredelcampo</b>"
+
+#: main/settings.php:567
+msgid "App ID"
+msgstr "ID de la aplicación"
+
+#: main/settings.php:563
+msgid "Facebook SDK Details"
+msgstr "Detalles de los SDK de Facebook"
+
+#: main/settings.php:552
+msgid "Google+"
+msgstr "Google+"
+
+#: main/settings.php:548
+msgid "YouTube"
+msgstr "YouTube"
+
+#: main/settings.php:544
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: main/settings.php:540
+msgid "Instagram"
+msgstr "Instagram"
+
+#: main/settings.php:536
+msgid "Twitter"
+msgstr "Twitter"
+
+#: main/settings.php:532
+msgid "Facebook"
+msgstr "Facebook"
+
+#: main/settings.php:528
+msgid "Social Profile URLs"
+msgstr "URL de perfil social"
+
+#: main/settings.php:519
+msgid "Copyright Text"
+msgstr "Texto del copyright"
+
+#: main/settings.php:515
+msgid "Copyright"
+msgstr "Copyright"
+
+#: main/settings.php:500
+msgid "You can change your contact email<br> from the Contact Form Settings."
+msgstr "Puedes cambiar tu correo electrónico de contacto<br> desde los «Ajustes del formulario de contacto»."
+
+#: main/settings.php:497
+msgid "Contact Email"
+msgstr "Correo electrónico de contacto"
+
+#: main/settings.php:492
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: main/settings.php:488
+msgid "Address"
+msgstr "Dirección"
+
+#: main/settings.php:484
+msgid "Address and Phone Number"
+msgstr "Dirección y número de teléfono"
+
+#: main/settings.php:455
+msgid "Editor Enables On"
+msgstr "Activar el editor en"
+
+#: main/settings.php:447 main/settings.php:704
+msgid "FAQ"
+msgstr "FAQ"
+
+#: main/settings.php:446 main/settings.php:700
+msgid "Support"
+msgstr "Soporte"
+
+#: main/settings.php:441
+msgid "Google Captcha"
+msgstr "Captcha de Google"
+
+#: main/settings.php:440
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: main/settings.php:439
+msgid "Integrations"
+msgstr "Integraciones"
+
+#: main/settings.php:437
+msgid "Information"
+msgstr "Información"
+
+#: main/settings.php:436 main/settings.php:471
+msgid "Enable Icons"
+msgstr "Activar los iconos"
+
+#: main/settings.php:433
+msgid "General"
+msgstr "Generales"
+
+#: main/license.php:120
+msgid "Toggle panel: System Information"
+msgstr "Alternar panel: información del sistema"
+
+#: init.php:217
+msgid "Website Settings"
+msgstr "Ajustes de la web"
+
+#: main/import.php:49
+msgid "You have already imported the content of this theme. You can re-import the same by either choosing to over-write existing pages / pagelayer templates OR creating duplicate content !"
+msgstr "Ya has importado el contenido de este tema. Puedes volver a importar lo mismo, eligiendo sobrescribirlas páginas o plantillas de página existentes o creando contenido duplicado."
+
+#: main/post_metas.php:544 main/website.php:309
+msgid "This code will be printed before closing the <code>&lt;/body&gt;</code> Section."
+msgstr "Este código se imprimirá antes del cierre de la sección <code>&lt;/body&gt;</code>."
+
+#: main/post_metas.php:542 main/website.php:306
+msgid "Footer Code"
+msgstr "Código del pie de página"
+
+#: main/post_metas.php:539 main/website.php:302
+msgid "This code will be printed in <code>&lt;head&gt;</code> Section."
+msgstr "Este código se imprimirá en la sección <code>&lt;head&gt;</code>."
+
+#: main/website.php:295
+msgid "You can add custom code like HTML, JavaScript, CSS etc. which will be inserted throughout your site."
+msgstr "Puedes añadir código personalizado como HTML, JavaScript, CSS, etc., que será insertado en todo tu sitio."
+
+#: main/website.php:294
+msgid "Header and Footer code"
+msgstr "Código de la cabecera y del pie de página"
+
+#: main/website.php:228
+msgid "Set the breakpoint for mobile devices. The default breakpoint for mobile layout is 360px."
+msgstr "Establece el punto de ruptura para dispositivos móviles. El punto de ruptura por defecto para el diseño de móviles es de 360px."
+
+#: main/website.php:223
+msgid "Mobile Breakpoint"
+msgstr "Punto de ruptura para móviles"
+
+#: main/website.php:219
+msgid "Set the breakpoint for tablet devices. The default breakpoint for tablet layout is 768px."
+msgstr "Establece el punto de ruptura para dispositivos de tabletas. El punto de ruptura por defecto para el diseño de tabletas es de 768px."
+
+#: main/website.php:214
+msgid "Tablet Breakpoint"
+msgstr "Punto de ruptura para tabletas"
+
+#: main/website.php:237
+msgid "Set the Space Between Widgets. The default Space set is 15px."
+msgstr "Establece el espacio entre los widgets. El espacio por defecto está establecido en 15px."
+
+#: main/website.php:232
+msgid "Space Between Widgets"
+msgstr "Espacio entre widgets"
+
+#: main/website.php:210
+msgid "Set the custom width of the content area. The default width set is 1170px."
+msgstr "Establece un ancho personalizado para el área del contenido. El ancho por defecto está establecido en 1170px."
+
+#: main/website.php:205
+msgid "Content Width"
+msgstr "Ancho del contenido"
+
+#: main/import.php:70
+msgid "The theme content was successfully imported"
+msgstr "El contenido del tema ha sido importado correctamente"
+
+#: init.php:246
+msgid "Import Theme"
+msgstr "Importar un tema"
+
+#: init.php:246
+msgid "Import a Theme and its Templates"
+msgstr "Importa un tema y sus plantillas"
+
+#: init.php:898
+msgctxt "Upgrade to Pagelayer Pro for many more features"
+msgid "Go Pro"
+msgstr "Hazte Pro"
+
+#: main/functions.php:2108
+msgid "Done! Pagelayer Pro is now installed and activated."
+msgstr "¡Hecho! PageLayer Pro ahora está instalado y activado."
+
+#: main/license.php:183
+msgid ".htaccess is writable"
+msgstr "Puede escribirse en el archivo «.htaccess»"
+
+#: main/license.php:176
+msgid "wp-config.php is writable"
+msgstr "Puede escribirse en el archivo «wp-config.php»"
+
+#: main/license.php:172
+msgid "Server's IP Address"
+msgstr "Dirección IP del servidor"
+
+#: main/license.php:168
+msgid "Path"
+msgstr "Ruta"
+
+#: main/license.php:164
+msgid "URL"
+msgstr "URL"
+
+#: main/license.php:142
+msgid "Pagelayer License"
+msgstr "Licencia de PageLayer"
+
+#: main/license.php:136
+msgid "Pagelayer Version"
+msgstr "Versión de PageLayer"
+
+#: main/license.php:125
+msgid "System Information"
+msgstr "Información del sistema"
+
+#: main/license.php:103
+msgid "You have activated the license, but are using the Free version ! <a href=\""
+msgstr "Has activado la licencia, pero ¡estás usando la versión gratuita! <a href=\""
+
+#: main/license.php:98 main/website.php:126 main/settings.php:418
+msgid "The settings were saved successfully"
+msgstr "Los ajustes se han guardado correctamente"
+
+#: main/license.php:69
+msgid "The license key is invalid"
+msgstr "La clave de licencia no es válida"
+
+#: main/license.php:61
+msgid "The response was malformed<br>"
+msgstr "La respuesta ha sido mal formada<br>"
+
+#: main/license.php:50
+msgid "The license key was not submitted"
+msgstr "No ha sido enviada la clave de licencia"
+
+#: init.php:243
+msgid "License"
+msgstr "Licencia"
+
+#: init.php:220
+msgid "Theme Templates"
+msgstr "Plantillas del tema"
+
+#: init.php:229
+msgid "Export Templates"
+msgstr "Exportar las plantillas"
+
+#: init.php:229
+msgid "Export Templates into a Theme"
+msgstr "Exportar las plantillas a un tema"
+
+#: init.php:226
+msgid "Add New Template"
+msgstr "Añadir una nueva plantilla"
+
+#: init.php:208
+msgid "Pagelayer"
+msgstr "PageLayer"
+
+#: init.php:888
+msgid "Edit using Pagelayer"
+msgstr "Editar usando PageLayer"
+
+#: init.php:819 init.php:839
+msgid "Edit with Pagelayer"
+msgstr "Editar con PageLayer"
+
+#: init.php:238
+msgid "Go Pro"
+msgstr "Hazte Pro"
+
+#: init.php:238
+msgid "Pagelayer Go Pro"
+msgstr "Ir a PageLayer Pro"
+
+#: init.php:211
+msgid "Settings"
+msgstr "Ajustes"
+
+#: init.php:208 init.php:211 init.php:243
+msgid "Pagelayer Editor"
+msgstr "Editor PageLayer"
+
+#. Author URI of the plugin
+msgid "https://pagelayer.com/"
+msgstr "https://pagelayer.com/"
+
+#. Author of the plugin
+msgid "Pagelayer Team"
+msgstr "Equipo de PageLayer"
+
+#. Description of the plugin
+msgid "PageLayer is a WordPress page builder plugin. Its very easy to use and very light on the browser."
+msgstr "PageLayer es un plugin de edición de páginas para WordPress. Es muy fácil de usar y muy ligero en el navegador."
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/pagelayer/"
+msgstr "https://es.wordpress.org/plugins/pagelayer/"
+
+#. Plugin Name of the plugin
+msgid "PageLayer"
+msgstr "PageLayer"
